@@ -3,7 +3,7 @@ Esercizio sulla ricorsione.
 
 ### Scopo dell'esercizio
 
-Per partecipare all'edizione *Nobel 2022* dell'ateneo, in fase di iscrizione è necessario specificare un sottoinsieme di esami
+Per partecipare all'edizione *Nobel 2023* dell'ateneo, in fase di iscrizione è necessario specificare un sottoinsieme di esami
 sostenuti, per un totale di *m* crediti, con la media dei voti più alta. La variabile *m* varia di anno in anno in base alle
 specifiche del concorso.
 
