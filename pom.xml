@@ -3,15 +3,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>it.polito.tdp</groupId>
-    <artifactId>VotiNobel</artifactId>
+    <artifactId>GestoreCorsi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>VotiNobel</name>
+    <name>GestoreCorsi</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <mainClass>it.polito.tdp.nobel.Main</mainClass>
+        <mainClass>it.polito.tdp.corsi.Main</mainClass>
     </properties>
 
     <organization>
@@ -22,12 +22,12 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
-            <version>11</version>
+            <version>18.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-fxml</artifactId>
-            <version>11</version>
+            <version>18.0.2</version>
         </dependency>
         <dependency>
 		    <groupId>com.zaxxer</groupId>
